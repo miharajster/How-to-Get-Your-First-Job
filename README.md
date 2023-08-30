@@ -1,4 +1,4 @@
-# How to Get Your First Job
+# How to Get Your First Job (as a programmer)
 <img width="500" src="https://raw.githubusercontent.com/miharajster/How-to-Get-Your-First-Job/main/lib/like_money.gif"/>
 
 So, you have read and followed my [How to Learn](https://github.com/miharajster/How-to-Learn) guide and think to yourself 
