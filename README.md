@@ -1,2 +1,3 @@
-# How-to-Get-Your-First-Job
-Fast A-Z on how to get your first job in tech.
+# How to Get Your First Job
+
+![https://raw.githubusercontent.com/miharajster/How-to-Get-Your-First-Job/main/lib/under_construction.gif]
